@@ -1,0 +1,22 @@
+.pr{
+    margin: 5px;
+     align-items: center;
+}
+
+.product{
+    margin: 2%;
+    max-width:20rem;
+    cursor: pointer;
+     align-items: center;
+    padding: 10px;
+  
+
+    
+}
+
+
+
+.product img{
+    height:25rem;
+object-fit: cover;
+}
